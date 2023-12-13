@@ -1,1 +1,19 @@
-[]
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww18600\viewh10860\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 [\{\
+  "relation": ["delegate_permission/common.handle_all_urls"],\
+  "target": \{\
+    "namespace": "android_app",\
+    "package_name": "eu.eleader.mobilebanking.nbk",\
+    "sha256_cert_fingerprints":\
+    ["DE:46:E3:72:70:C3:C8:A5:50:A5:85:CD:15:9B:DF:E8:A8:B3:74:8F:D4:81:C3:CB:D5:30:98:C7:B2:93:84:6C"]\
+  \}\
+\}]\
+}
